@@ -7,7 +7,7 @@ In this game, the player needs to rescue parachuters with landing pads.
 
 ![sketch](https://github.com/akerfel/parachute-rescue/assets/45148959/0594493d-5668-455a-a582-e701d955f66a)
 
-## Arduino Video ![unknown]
+## Arduino Video
 
 Below is a video which shows how the pads were activated/deactivated on the arduino. The arduino model is [chipKIT Basic IO Shield](https://digilent.com/reference/chipkit_shield_basic_io_shield/refmanual).
 
