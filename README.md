@@ -5,7 +5,7 @@ In this game, the player needs to rescue parachuters with landing pads.
 
 ## Sketch of Arduino gameplay
 
-(https://github.com/akerfel/parachute-rescue/assets/45148959/5556ecd6-0764-4f86-8332-7f573be1d404)
+![sketch](https://github.com/akerfel/parachute-rescue/assets/45148959/0594493d-5668-455a-a582-e701d955f66a)
 
 ## Arduino Video ![unknown]
 
