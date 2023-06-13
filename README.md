@@ -1,14 +1,22 @@
 # parachute-rescue
-This simple game was initially created in Java/Processing, and then converted to C, to be played on an arduino with four switches. 
+This simple game was initially created in Java/Processing, and then converted to C (not present in this repostiory), to be played on an arduino with four switches. 
 
 In this game, the player needs to rescue parachuters with landing pads.
+
+## Sketch of Arduino gameplay
+
+![unknown](https://github.com/akerfel/parachute-rescue/assets/45148959/120dfa1f-3406-4555-ab1b-fbe85fcf93ef)
+
+## Arduino Video 
+
+Below is a video which shows how the pads were activated/deactivated on the arduino. The arduino model is [chipKIT Basic IO Shield](https://digilent.com/reference/chipkit_shield_basic_io_shield/refmanual).
+
+https://github.com/akerfel/parachute-rescue/assets/45148959/5f5fd27d-2375-4db3-82e3-3656eb008cf4
 
 ## Instructions
 - Use keyboard buttons `1`, `2`, `3` and `4` to activate/deactivate the landings pads (the four brown rectangles at the bottom of the screen).
 - You receive one point for each parachuter who reaches the ground.
-- Green parachuters are **good guys**, and red parachuters are **bad guys**.
-- You lose one HP if a **good guy** reaches the ground without landing on a landing pad.
-- You lose one HP if a **bad guy** reaches the ground and lands on a landing pad. 
-- Once your HP reaches zero, you have lost the game.
+- You lose one HP if a **good guy** (green) is not saved.
+- You lose one HP if a **bad guy** (red) is saved. 
 
-![java_W9tCwY08iT](https://user-images.githubusercontent.com/45148959/210137943-4eaa4414-7eea-4bc1-9f4d-5d8236c6f825.gif)
+![java_8WPdd6Ea9U](https://github.com/akerfel/parachute-rescue/assets/45148959/62b5a586-3c9b-4fec-af9c-60c4155f3b33)
