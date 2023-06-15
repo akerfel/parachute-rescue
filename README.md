@@ -1,5 +1,5 @@
 # parachute-rescue
-This simple game was initially created in Java/Processing, and then converted to C (not present in this repostiory), to be played on an arduino with four switches. 
+This simple game was initially created in Java/Processing, and then converted to C (not present in this repository), to be played on an arduino with four switches. 
 
 In this game, the player needs to rescue parachuters with landing pads.
 
