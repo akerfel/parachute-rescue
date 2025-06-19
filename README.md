@@ -16,5 +16,5 @@ https://github.com/akerfel/parachute-rescue/assets/45148959/310ee0c9-4d96-4093-b
 ## Instructions
 - Use the switches to activate/deactivate landing pads
 - You receive one point for each parachuter who reaches the ground.
-- You lose one HP for each a **good guy** not saved.
-- You lose one HP for each a **bad guy** saved.
+- You lose one HP for each **good guy** not saved.
+- You lose one HP for each **bad guy** saved.
